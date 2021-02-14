@@ -1,0 +1,35 @@
+# Metal基础
+#图像处理#
+
+# 参考文档
+<a href='Metal%E7%89%B9%E5%BE%81%E9%9B%86.pdf'>Metal特征集.pdf</a><a href='MSL%E8%AF%AD%E8%A8%80%E8%A7%84%E8%8C%83.pdf'>MSL语言规范.pdf</a><a href='MSL%E6%8C%87%E5%8D%97%E7%BF%BB%E8%AF%91.pdf'>MSL指南翻译.pdf</a>
+![](Metal%E5%9F%BA%E7%A1%80/Metal%2001%E6%A0%87%E9%87%8F%E7%B1%BB%E5%9E%8B.png)
+![](Metal%E5%9F%BA%E7%A1%80/Metal%2001%E9%87%87%E6%A0%B7%E5%99%A8%E7%8A%B6%E6%80%81%E5%92%8C%E9%BB%98%E8%AE%A4%E5%80%BC.png)
+
+Metal总的来说思想和OpenGL类似，不同的是API层面是面向对象的，使用起来比较方便。
+
+# Metal渲染示例
+## 属性信息
+![](Metal%E5%9F%BA%E7%A1%80/7B0C87B4-90D2-4D38-AB24-409759E03E37.png)
+
+## 初始化属性数据并设置MTKView渲染代理
+![](Metal%E5%9F%BA%E7%A1%80/60FA7364-5A19-4D2E-B091-E0FF8724F8F3.png)
+### 配置渲染管线（类似OpenGL的着色程序）
+![](Metal%E5%9F%BA%E7%A1%80/74426091-0827-497E-A01F-C7B0EB1B9BE9.png)
+### 加载图片数据到纹理对象上
+![](Metal%E5%9F%BA%E7%A1%80/2E754847-CD9A-4E67-B1C0-BAD9DE1B800C.png)
+![](Metal%E5%9F%BA%E7%A1%80/19A39A6A-B8F0-4DCF-9F2D-BEE6CD056DBB.png)
+
+## MTKViewDelegate 渲染循环
+### 传递数据并渲染
+![](Metal%E5%9F%BA%E7%A1%80/0FBB5EE2-4183-4A0E-BB37-5E84DDCBEC50.png)
+### 更新窗口大小
+![](Metal%E5%9F%BA%E7%A1%80/104D2EC8-75A2-4199-8711-FE64DB3E91BF.png)
+
+## ShaderHeader
+![](Metal%E5%9F%BA%E7%A1%80/F476497F-979F-40E2-9D1A-123B8CFCBD61.png)
+## Shader.metal
+![](Metal%E5%9F%BA%E7%A1%80/6C4B995C-5248-43FE-ABF0-0C011831C8D6.png)
+![](Metal%E5%9F%BA%E7%A1%80/9E2EB36F-2F1B-4F3C-B2E9-C4FA47CBDAE1.png)
+![](Metal%E5%9F%BA%E7%A1%80/E8D6864F-C087-4776-81C4-3209410960FE.png)
+
