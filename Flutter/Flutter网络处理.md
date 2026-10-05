@@ -1,5 +1,4 @@
 # Flutter网络处理
-#flutter
 
 [Flutter网络请求](https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247483765&idx=1&sn=1c44e47844e920ae6169111a74086720&chksm=cfe3f28af8947b9c4428968c514cbf87940f21c7b5fe0b18105651c7a919bc811ee381f95d94&scene=178&cur_album_id=1566028536430247937#rd)
 [JSON 和序列化数据  - Flutter 中文文档 - Flutter 中文资源](https://flutter.cn/docs/development/data-and-backend/json#code-generation)
@@ -25,5 +24,4 @@
 # 模型转换
 1. 拿到JSON字符串decode成字典后，手动映射字段和值。
 2. json_serializable：采用关键字+注解的方式标记模型类，然后运行命令生成Model类和JSON的自动转换代码。
-
 

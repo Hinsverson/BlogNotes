@@ -1,5 +1,4 @@
 # Flutter事件处理
-#flutter
 
 # 基本使用
 [Flutter事件监听](https://mp.weixin.qq.com/s?__biz=Mzg5MDAzNzkwNA==&mid=2247483795&idx=1&sn=4ea10f4d6987a592b84885a271219849&chksm=cfe3f26cf8947b7a75e567280cd86270bb7f32abdfb3c596e325459ce8599884396328efcc6e&scene=178&cur_album_id=1566028536430247937#rd)

@@ -1,5 +1,4 @@
 # Flutter布局
-#flutter
 
 [Layout widgets  - Flutter 中文文档 - Flutter 中文资源](https://flutter.cn/docs/development/ui/widgets/layout)
 [深入理解 Flutter 布局约束  - Flutter 中文文档 - Flutter 中文资源](https://flutter.cn/docs/development/ui/layout/constraints)

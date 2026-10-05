@@ -1,5 +1,4 @@
 # Flutter重要总结
-#flutter
 
 # Flutter内部运行机制的整体理解
 这篇文章写的很好，图文并茂理解Flutter框架层运行流程  [Flutter - Flutter internals](https://www.didierboelens.com/2019/09/flutter-internals/)
@@ -108,7 +107,6 @@ RenderElement挂载到树上后，拿widget.createRanderObject()方法传入自�
 
 
 、
-
 
 
 

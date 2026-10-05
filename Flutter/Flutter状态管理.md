@@ -1,5 +1,4 @@
 # Flutter状态管理
-#flutter
 
 [Flutter 系统教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDAzNzkwNA==&action=getalbum&album_id=1566028536430247937&scene=173&from_msgid=2247483765&from_itemidx=1&count=3#wechat_redirect)
 
@@ -301,4 +300,3 @@ Provider的更多用法参考[Flutter | 状态管理指南篇——Provider](htt
 [状态 (State) 管理参考  - Flutter 中文文档 - Flutter 中文资源](https://flutter.cn/docs/development/data-and-backend/state-mgmt/options)
 [Flutter | 状态管理指南篇——Provider](https://juejin.cn/post/6844903864852807694#heading-27)
 [Flutter状态管理 - 初探与总结](https://juejin.cn/post/6844903842992095240#heading-1)
-

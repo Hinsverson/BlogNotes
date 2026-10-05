@@ -1,5 +1,4 @@
 # Flutter启动到显示分析
-#flutter
 
 https://github.com/Messiahfy/Notes/blob/master/Flutter/Flutter应用启动流程.md#scheduleattachrootwidget
 http://gityuan.com/2019/06/29/flutter_run_app/
